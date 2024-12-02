@@ -10,33 +10,38 @@ In 2024, I earned my **Higher Professional Degree in Network & IT Security**, wh
 
 That Python course sparked my interest in programming, and while looking around I decided to give Back-End Development studies a try!
 
-### Certifications
-I currently hold three (3) certifications related to IT and Cybersecurity:
 <table>
   <thead>
     <tr>
-      <th>Certification</th>
-      <th>Date Earned</th>
+      <th>Category</th>
+      <th>Item</th>
+      <th>Date / Details</th>
     </tr>
   </thead>
   <tbody>
     <tr>
+      <td>Certification</td>
       <td><a href="https://certified.tcm-sec.com/fba51118-8a0a-4b23-9595-23dc33ad9a4e">Practical Junior Penetration Tester (PJPT)</a></td>
       <td>May 5, 2024</td>
     </tr>
     <tr>
+      <td>Certification</td>
       <td><a href="https://certified.tcm-sec.com/874f40b1-a392-43ec-a0c4-fdbdafd37602">Practical Web Pentest Associate (PWPA)</a></td>
       <td>March 5, 2024</td>
     </tr>
     <tr>
+      <td>Certification</td>
       <td><a href="https://www.credly.com/badges/56d4a914-a9cf-43a9-8710-a185805a15d6">Microsoft Certified: Azure Fundamentals (AZ-900)</a></td>
       <td>March 30, 2023</td>
+    </tr>
+    <tr>
+      <td>Programming Language</td>
+      <td>Python</td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luddekn&layout=compact&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_title=true&hide_border=true" alt="Top Langs" />
+      </td>
     </tr>
   </tbody>
 </table>
 
-
-
-### $ Programming Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luddekn&layout=compact&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_title=true&hide_border=true)
 
