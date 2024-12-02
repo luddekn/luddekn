@@ -2,8 +2,7 @@
 <p align="center"><a href="https://luddekn.github.io/">Personal Website</a></p>
 
 ---
-
-### $ About Me
+<img src="https://github.com/luddekn/luddekn/blob/main/aboutme.png?raw=true" alt="About Me" />
 Hi there! My name is Ludvik, and I'm currently studying **Back-End Development**!
 
 In 2024, I earned my **Higher Professional Degree in Network & IT Security**, where I built a strong foundation in computers, cybersecurity, network management, and IT systems. One of the highlights of my studies was a Python programming course, during which I created a [password manager](https://github.com/luddekn/lock-and-key) as my final exam project. (*Warning, messy source code!* 😅)
