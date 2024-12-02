@@ -4,4 +4,4 @@
 ---
 
 ### Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luddekn&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luddekn&hide_progress=true&theme=dark)
