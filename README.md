@@ -1,4 +1,4 @@
-<h3 align="center">Ludvik Kristoffersen</h3>
+<h2 align="left">Ludvik Kristoffersen<span><p align="right">Personal Website</p></span></h2>
 <p align="center"><a href="https://luddekn.github.io/"><strong>Personal Website</strong></a></p>
 
 ---
