@@ -12,10 +12,10 @@ That Python course sparked my interest in programming, and while looking around 
 
 ### Certifications
 I currently hold three (3) certifications related to IT and Cybersecurity:
-<table>
+<table style="width: 100%;">
   <tr>
-    <th>Certification</th>
-    <th>Date Earned</th>
+    <th style="text-align: left;">Certification</th>
+    <th style="text-align: left;">Date Earned</th>
   </tr>
   <tr>
     <td><a href="https://certified.tcm-sec.com/fba51118-8a0a-4b23-9595-23dc33ad9a4e">Practical Junior Penetration Tester (PJPT)</a></td>
@@ -30,6 +30,7 @@ I currently hold three (3) certifications related to IT and Cybersecurity:
     <td>March 30, 2023</td>
   </tr>
 </table>
+
 
 ### $ Programming Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luddekn&layout=compact&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_title=true&hide_border=true)
