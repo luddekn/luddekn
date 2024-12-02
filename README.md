@@ -1,7 +1,4 @@
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <h2>Ludvik Kristoffersen</h2>
-  <a href="https://yourpersonalwebsite.com" target="_blank">Personal Website</a>
-</div>
+<h2 align="left">Ludvik Kristoffersen</h2><a href="https://yourpersonalwebsite.com" target="_blank" align="right">Personal Website</a>
 
 ---
 <img src="https://github.com/luddekn/luddekn/blob/main/aboutme.png?raw=true" alt="About Me" />
