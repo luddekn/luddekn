@@ -10,6 +10,7 @@ In 2024, I earned my **Higher Professional Degree in Network & IT Security**, wh
 That Python course sparked my interest in programming, so I decided to give Back-End Development studies a chance since I find that field interesting and want to learn more!
 #
 ![programming](https://github.com/luddekn/luddekn/blob/main/programming.png?raw=true)
+
 ![certificates](https://github.com/luddekn/luddekn/blob/main/certificates.png?raw=true)
 <table align="left">
   <tr>
