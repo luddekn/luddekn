@@ -16,7 +16,7 @@ That Python course sparked my interest in programming, so I decided to give Back
   <tr>
     <td>
       <img src="https://github.com/luddekn/luddekn/blob/main/certificates.png?raw=true" alt="certifications" />
-      <p>I currently hold three certifications related to IT and Cybersecurity.</p>
+      <p>Currently holding three certifications related to IT and Cybersecurity.</p>
       <table>
         <tr>
           <td><a href="https://certified.tcm-sec.com/fba51118-8a0a-4b23-9595-23dc33ad9a4e">Practical Junior Penetration Tester (PJPT)</a></td>
