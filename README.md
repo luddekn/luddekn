@@ -1,4 +1,4 @@
-<h1>Ludvik Kristoffersen</h1>
+<h2>Ludvik Kristoffersen</h2>
 
 ---
 <img src="https://github.com/luddekn/luddekn/blob/main/aboutme.png?raw=true" alt="About Me" />
