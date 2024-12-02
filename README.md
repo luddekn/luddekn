@@ -1,4 +1,4 @@
-<h3>Ludvik Kristoffersen</h3>
+![ludvikkristoffersen](https://github.com/luddekn/luddekn/blob/main/ludvikkristoffersen.gif?raw=true)
 
 ---
 <img src="https://github.com/luddekn/luddekn/blob/main/aboutme.png?raw=true" alt="About Me" />
