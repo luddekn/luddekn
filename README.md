@@ -32,7 +32,8 @@ That Python course sparked my interest in programming, and while looking around 
       </table>
     </td>
     <td>
-      <h3>Programming Languages</h3>
+      <img src="https://raw.githubusercontent.com/luddekn/advent-of-code/refs/heads/master/images/AboutAoC.png" alt="certifications" />
+      <!--<h3>Programming Languages</h3>-->
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luddekn&layout=compact&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_title=true&hide_border=true&disable_animations=true" alt="Top Langs" />
     </td>
   </tr>
