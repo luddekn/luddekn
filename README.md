@@ -14,7 +14,7 @@ That Python course sparked my interest in programming, so I decided to give Back
 
 <table align="center">
   <tr>
-    <td valign="top">
+    <td align="center">
       <img src="https://github.com/luddekn/luddekn/blob/main/certificates.png?raw=true" alt="certifications" />
       <p>I currently hold three certifications related to IT and Cybersecurity.</p>
       <table>
