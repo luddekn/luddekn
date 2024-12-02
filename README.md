@@ -16,7 +16,7 @@ That Python course sparked my interest in programming, so I decided to give Back
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
 
 
-
+<br/>
 #
 ![certificates](https://github.com/luddekn/luddekn/blob/main/certificates.png?raw=true)
 
