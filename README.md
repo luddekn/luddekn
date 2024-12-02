@@ -14,7 +14,7 @@ That Python course sparked my interest in programming, so I decided to give Back
 
 <table align="center">
   <tr>
-    <td>
+    <td valign="top">
       <img src="https://github.com/luddekn/luddekn/blob/main/certificates.png?raw=true" alt="certifications" />
       <p>I currently hold three certifications related to IT and Cybersecurity.</p>
       <table>
@@ -32,7 +32,7 @@ That Python course sparked my interest in programming, so I decided to give Back
         </tr>
       </table>
     </td>
-    <td>
+    <td align="center">
       <img src="https://github.com/luddekn/luddekn/blob/main/programming.png?raw=true" alt="programming" />
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luddekn&layout=compact&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_title=true&hide_border=true&disable_animations=true" alt="Top Langs" />
     </td>
