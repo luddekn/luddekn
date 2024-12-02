@@ -13,7 +13,8 @@ That Python course sparked my interest in programming, and while looking around 
 <table>
   <tr>
     <td>
-      <h3>Certifications</h3>
+      <img src="https://raw.githubusercontent.com/luddekn/advent-of-code/refs/heads/master/images/AboutAoC.png" alt="certifications" />
+      <!--<h3>Certifications</h3>-->
       <p>I currently hold three certifications related to IT and Cybersecurity.</p>
       <table>
         <tr>
