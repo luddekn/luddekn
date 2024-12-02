@@ -18,5 +18,5 @@ I currently hold three (3) certifications related to IT and Cybersecurity:
 | [Practical Web Pentest Associate (PWPA)](https://certified.tcm-sec.com/874f40b1-a392-43ec-a0c4-fdbdafd37602#acc.9lwpjcFW) | March 5, 2024 |
 | [Microsoft Certified: Azure Fundamentals (AZ-900)](https://www.credly.com/badges/56d4a914-a9cf-43a9-8710-a185805a15d6) | March 30, 2023 |
 
-### $ Languages i Have Used
+### $ Programming Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luddekn&hide_progress=true&theme=dark&hide_title=true&hide_border=true)
