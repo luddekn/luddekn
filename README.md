@@ -12,24 +12,29 @@ That Python course sparked my interest in programming, and while looking around 
 
 ### Certifications
 I currently hold three (3) certifications related to IT and Cybersecurity:
-<table style="width: 100%;">
-  <tr>
-    <th style="text-align: left;">Certification</th>
-    <th style="text-align: left;">Date Earned</th>
-  </tr>
-  <tr>
-    <td><a href="https://certified.tcm-sec.com/fba51118-8a0a-4b23-9595-23dc33ad9a4e">Practical Junior Penetration Tester (PJPT)</a></td>
-    <td>May 5, 2024</td>
-  </tr>
-  <tr>
-    <td><a href="https://certified.tcm-sec.com/874f40b1-a392-43ec-a0c4-fdbdafd37602">Practical Web Pentest Associate (PWPA)</a></td>
-    <td>March 5, 2024</td>
-  </tr>
-  <tr>
-    <td><a href="https://www.credly.com/badges/56d4a914-a9cf-43a9-8710-a185805a15d6">Microsoft Certified: Azure Fundamentals (AZ-900)</a></td>
-    <td>March 30, 2023</td>
-  </tr>
+<table>
+  <thead>
+    <tr>
+      <th>Certification</th>
+      <th>Date Earned</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://certified.tcm-sec.com/fba51118-8a0a-4b23-9595-23dc33ad9a4e">Practical Junior Penetration Tester (PJPT)</a></td>
+      <td>May 5, 2024</td>
+    </tr>
+    <tr>
+      <td><a href="https://certified.tcm-sec.com/874f40b1-a392-43ec-a0c4-fdbdafd37602">Practical Web Pentest Associate (PWPA)</a></td>
+      <td>March 5, 2024</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.credly.com/badges/56d4a914-a9cf-43a9-8710-a185805a15d6">Microsoft Certified: Azure Fundamentals (AZ-900)</a></td>
+      <td>March 30, 2023</td>
+    </tr>
+  </tbody>
 </table>
+
 
 
 ### $ Programming Languages
