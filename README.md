@@ -12,25 +12,20 @@ That Python course sparked my interest in programming, so I decided to give Back
 ![programming](https://github.com/luddekn/luddekn/blob/main/programming.png?raw=true)
 
 ![certificates](https://github.com/luddekn/luddekn/blob/main/certificates.png?raw=true)
-<table align="left">
+Currently holding three certifications related to IT and Cybersecurity.
+<table>
   <tr>
-    <td>
-      <p>Currently holding three certifications related to IT and Cybersecurity.</p>
-      <table>
-        <tr>
-          <td><a href="https://certified.tcm-sec.com/fba51118-8a0a-4b23-9595-23dc33ad9a4e">Practical Junior Penetration Tester (PJPT)</a></td>
-          <td>May 5, 2024</td>
-        </tr>
-        <tr>
-          <td><a href="https://certified.tcm-sec.com/874f40b1-a392-43ec-a0c4-fdbdafd37602">Practical Web Pentest Associate (PWPA)</a></td>
-          <td>March 5, 2024</td>
-        </tr>
-        <tr>
-          <td><a href="https://www.credly.com/badges/56d4a914-a9cf-43a9-8710-a185805a15d6">Microsoft Certified: Azure Fundamentals (AZ-900)</a></td>
-          <td>March 30, 2023</td>
-        </tr>
-      </table>
-    </td>
+    <td><a href="https://certified.tcm-sec.com/fba51118-8a0a-4b23-9595-23dc33ad9a4e">Practical Junior Penetration Tester (PJPT)</a></td>
+    <td>May 5, 2024</td>
+  </tr>
+  <tr>
+    <td><a href="https://certified.tcm-sec.com/874f40b1-a392-43ec-a0c4-fdbdafd37602">Practical Web Pentest Associate (PWPA)</a></td>
+    <td>March 5, 2024</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.credly.com/badges/56d4a914-a9cf-43a9-8710-a185805a15d6">Microsoft Certified: Azure Fundamentals (AZ-900)</a></td>
+    <td>March 30, 2023</td>
+  </tr>
 </table>
 
 
