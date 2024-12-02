@@ -1,4 +1,4 @@
-![ludvikkristoffersen](https://github.com/luddekn/luddekn/blob/main/ludvikkristoffersen.gif?raw=true)
+![ludvikkristoffersen](https://github.com/luddekn/luddekn/blob/main/ludvikgif.gif?raw=true)
 
 ---
 <img src="https://github.com/luddekn/luddekn/blob/main/aboutme.png?raw=true" alt="About Me" />
