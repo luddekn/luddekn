@@ -12,7 +12,7 @@ That Python course sparked my interest in programming, so I decided to give Back
 
 ---
 
-<table>
+<table align="center">
   <tr>
     <td>
       <img src="https://github.com/luddekn/luddekn/blob/main/certificates.png?raw=true" alt="certifications" />
