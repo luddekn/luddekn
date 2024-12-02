@@ -1,7 +1,7 @@
 ![Ludvik Kristoffersen](https://github.com/luddekn/luddekn/blob/main/ludvikkristoffersen-banner.jpg?raw=true)
 
 ---
-![About Me](https://github.com/luddekn/luddekn/blob/main/about-me.png?raw=true)
+![About Me](https://github.com/luddekn/luddekn/blob/main/AboutMe.png?raw=true)
 
 Hi there👋! My name is Ludvik, and I'm currently studying **Back-End Development**!
 
