@@ -9,7 +9,7 @@ In 2024, I earned my **Higher Professional Degree in Network & IT Security**, wh
 
 That Python course sparked my interest in programming, so I decided to give Back-End Development studies a chance since I find that field interesting and want to learn more!
 #
-![programming](https://github.com/luddekn/luddekn/blob/main/programming.png?raw=true)
+![programming](https://github.com/luddekn/luddekn/blob/main/languages-and-tools.png?raw=true)
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
@@ -22,7 +22,7 @@ That Python course sparked my interest in programming, so I decided to give Back
 <br/>
 
 #
-![certificates](https://github.com/luddekn/luddekn/blob/main/certificates.png?raw=true)
+![certificates](https://github.com/luddekn/luddekn/blob/main/certifications.png?raw=true)
 
 Currently holding three certifications related to IT and Cybersecurity.
 <table>
