@@ -14,6 +14,7 @@ That Python course sparked my interest in programming, and while looking around 
   <tr>
     <td>
       <h3>Certifications</h3>
+      <p>I currently hold three certifications related to IT and Cybersecurity.</p>
       <table>
         <tr>
           <td><a href="https://certified.tcm-sec.com/fba51118-8a0a-4b23-9595-23dc33ad9a4e">Practical Junior Penetration Tester (PJPT)</a></td>
