@@ -11,7 +11,9 @@ That Python course sparked my interest in programming, so I decided to give Back
 #
 ![programming](https://github.com/luddekn/luddekn/blob/main/programming.png?raw=true)
 
+#
 ![certificates](https://github.com/luddekn/luddekn/blob/main/certificates.png?raw=true)
+
 Currently holding three certifications related to IT and Cybersecurity.
 <table>
   <tr>
