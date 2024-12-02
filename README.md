@@ -1,4 +1,4 @@
-![ludvikkristoffersen](https://github.com/luddekn/luddekn/blob/main/ludvikkristoffersen.jpg?raw=true)
+![Ludvik Kristoffersen](https://github.com/luddekn/luddekn/blob/main/ludvikkristoffersen-banner.jpg?raw=true)
 
 ---
 ![About Me](https://github.com/luddekn/luddekn/blob/main/about-me.png?raw=true)
