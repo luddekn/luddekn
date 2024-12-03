@@ -43,9 +43,9 @@ That Python course sparked my interest in programming, so I decided to give Back
       <h3>📜 Certifications</h3>
       <p>Currently holding three certifications related to IT and Cybersecurity.</p>
       <ul>
-        <li><a href="">Practical Junior Penetration Tester (PJPT)</a><span> Date</span></li>
-        <li><a href="">Practical Web Pentest Associate (PWPA)</a><span> Date</span></li>
-        <li><a href="">Microsoft Certified: Azure Fundamentals (AZ-900)</a><span> Date</span></li>
+        <li><a href="https://certified.tcm-sec.com/fba51118-8a0a-4b23-9595-23dc33ad9a4e">Practical Junior Penetration Tester (PJPT)</a></li>
+        <li><a href="https://certified.tcm-sec.com/874f40b1-a392-43ec-a0c4-fdbdafd37602">Practical Web Pentest Associate (PWPA)</a></li>
+        <li><a href="https://www.credly.com/badges/56d4a914-a9cf-43a9-8710-a185805a15d6">Microsoft Certified: Azure Fundamentals (AZ-900)</li>
       </ul>
     </td>
   </tr>
