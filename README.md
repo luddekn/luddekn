@@ -42,32 +42,11 @@ That Python course sparked my interest in programming, so I decided to give Back
     <td style="vertical-align: top; padding-right: 20px;">
       <h3>📜 Certifications</h3>
       <p>Currently holding three certifications related to IT and Cybersecurity.</p>
-      <table>
-        <tr>
-          <td>
-            <a href="https://certified.tcm-sec.com/fba51118-8a0a-4b23-9595-23dc33ad9a4e">
-              <img src="https://custom-icon-badges.demolab.com/badge/-Practical%20Junior%20Penetration%20Tester%20(PJPT)-black?style=for-the-badge"/>
-            </a>
-          </td>
-          <td>May 5, 2024</td>
-        </tr>
-        <tr>
-          <td>
-            <a href="https://certified.tcm-sec.com/874f40b1-a392-43ec-a0c4-fdbdafd37602">
-              <img src="https://custom-icon-badges.demolab.com/badge/-Practical%20Web%20Pentest%20Associate%20(PWPA)-black?style=for-the-badge"/>
-            </a>
-          </td>
-          <td>March 5, 2024</td>
-        </tr>
-        <tr>
-          <td>
-            <a href="https://www.credly.com/badges/56d4a914-a9cf-43a9-8710-a185805a15d6">
-              <img src="https://custom-icon-badges.demolab.com/badge/-Azure%20Fundamentals%20(AZ-900)-black?style=for-the-badge"/>
-            </a>
-          </td>
-          <td>March 30, 2023</td>
-        </tr>
-      </table>
+      <ul>
+        <li><a href="">Practical Junior Penetration Tester (PJPT)</a><span> Date</span></li>
+        <li><a href="">Practical Web Pentest Associate (PWPA)</a><span> Date</span></li>
+        <li><a href="">Microsoft Certified: Azure Fundamentals (AZ-900)</a><span> Date</span></li>
+      </ul>
     </td>
   </tr>
 </table>
