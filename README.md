@@ -38,6 +38,7 @@ That Python course sparked my interest in programming, so I decided to give Back
         <source srcset="https://github-readme-stats.vercel.app/api?username=luddekn&show_icons=true&hide_border=true&hide_title=true&text_color=000000&bg_color=00000000&icon_color=000000&ring_color=000000&disable_animations=true&include_all_commits=true&layout=compact&hide_progress=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
         <img src="https://github-readme-stats.vercel.app/api?username=luddekn&show_icons=true&hide_border=true&hide_title=true&text_color=000000&bg_color=00000000&icon_color=000000&ring_color=000000&disable_animations=true&include_all_commits=true&layout=compact&hide_progress=true" />
       </picture>
+      <br/>
     </td>
     <td style="vertical-align: top; padding-right: 20px;">
       <h3>📜 Certifications</h3>
