@@ -2,7 +2,7 @@
 
 Hi there! My name is Ludvik, and I'm currently studying **Back-End Development**!
 
-In 2024, I earned my **Higher Professional Degree in Network & IT Security**, where I built a strong foundation with computers, cybersecurity, network management, and IT systems. One of the highlights of my studies was a Python programming course, during which I created a [password manager](https://github.com/luddekn/lock-and-key) as my final exam project. (*Warning, messy source code!* 😅)
+In 2024, I earned my **Higher Professional Degree in Network & IT Security**, where I built a strong foundation with computers, cybersecurity, network management, and IT systems. One of the highlights of my studies was a Python programming course, during which I created a **[password manager](https://github.com/luddekn/lock-and-key)** as my final exam project. (*Warning, messy source code!* 😅)
 
 That Python course sparked my interest in programming, so I decided to give Back-End Development studies a chance since I find that field interesting and want to learn more!
 
