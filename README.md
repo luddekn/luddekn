@@ -7,8 +7,8 @@ In 2024, I earned my **Higher Professional Degree in Network & IT Security**, wh
 That Python course sparked my interest in programming, so I decided to give Back-End Development studies a chance since I find that field interesting and want to learn more!
 
 <p align="left">
-  <a href="">
-    <img src="https://custom-icon-badges.demolab.com/badge/-PERSONAL%20WEBSITE-teal?style=for-the-badge&logo=repo-template&logoColor=white" alt="Personal Website"/>
+  <a href="https://luddekn.github.io/">
+    <img src="https://custom-icon-badges.demolab.com/badge/-PERSONAL%20WEBSITE-blue?style=for-the-badge&logo=web&logoColor=white" alt="Personal Website"/>
   </a>
 </p>
 
