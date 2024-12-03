@@ -29,9 +29,6 @@ That Python course sparked my interest in programming, so I decided to give Back
 <br/>
 
 #
-### 📜 Certifications
-
-Currently holding three certifications related to IT and Cybersecurity.
 <table>
   <tr>
     <h3>📜 Certifications</h3>
