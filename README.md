@@ -8,7 +8,7 @@ That Python course sparked my interest in programming, so I decided to give Back
 
 <p align="left">
   <a href="https://luddekn.github.io/">
-    <img src="https://custom-icon-badges.demolab.com/badge/-MY%20WEBSITE-blue?style=for-the-badge&logo=web&logoColor=white" alt="Personal Website"/>
+    <img src="https://custom-icon-badges.demolab.com/badge/-MY%20WEBSITE-blue?style=for-the-badge&logo=browser&logoColor=white" alt="Personal Website"/>
   </a>
 </p>
 
