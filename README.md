@@ -52,11 +52,19 @@ That Python course sparked my interest in programming, so I decided to give Back
           <td>May 5, 2024</td>
         </tr>
         <tr>
-          <td><a href="https://certified.tcm-sec.com/874f40b1-a392-43ec-a0c4-fdbdafd37602">Practical Web Pentest Associate (PWPA)</a></td>
+          <td>
+            <a href="https://certified.tcm-sec.com/874f40b1-a392-43ec-a0c4-fdbdafd37602">
+              <img src="https://custom-icon-badges.demolab.com/badge/-Practical%20Web%20Pentest%20Associate%20(PWPA)-black?style=for-the-badge"/>
+            </a>
+          </td>
           <td>March 5, 2024</td>
         </tr>
         <tr>
-          <td><a href="https://www.credly.com/badges/56d4a914-a9cf-43a9-8710-a185805a15d6">Microsoft Certified: Azure Fundamentals (AZ-900)</a></td>
+          <td>
+            <a href="https://www.credly.com/badges/56d4a914-a9cf-43a9-8710-a185805a15d6">
+              <img src="https://custom-icon-badges.demolab.com/badge/-Azure%20Fundamentals%20(AZ-900)-black?style=for-the-badge"/>
+            </a>
+          </td>
           <td>March 30, 2023</td>
         </tr>
       </table>
