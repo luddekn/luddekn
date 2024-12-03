@@ -46,7 +46,7 @@ That Python course sparked my interest in programming, so I decided to give Back
         <tr>
           <td>
             <a href="https://certified.tcm-sec.com/fba51118-8a0a-4b23-9595-23dc33ad9a4e">
-              <img src="https://custom-icon-badges.demolab.com/badge/-Practical%20Junior%Penetration%20Tester%20(PJPT)-blue?style=for-the-badge&logo=browser&logoColor=white"/>
+              <img src="https://custom-icon-badges.demolab.com/badge/-Practical%20Junior%20Penetration%20Tester%20(PJPT)-blue?style=for-the-badge"/>
             </a>
           </td>
           <td>May 5, 2024</td>
