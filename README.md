@@ -53,7 +53,7 @@ That Python course sparked my interest in programming, so I decided to give Back
     <!-- Right Column: GitHub Stats -->
     <td style="vertical-align: top;">
       <h3>📊 Ludvik's GitHub Stats</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=luddekn&show_icons=true&theme=transparent&hide_title=true" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=luddekn&show_icons=true&theme=prussian&hide_title=true" alt="GitHub Stats" />
     </td>
   </tr>
 </table>
