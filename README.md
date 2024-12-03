@@ -29,7 +29,7 @@ That Python course sparked my interest in programming, so I decided to give Back
 <br/>
 
 #
-<table style="width: 100%; table-layout: fixed;">
+<table width="100%">
   <tr>
     <!-- Left Column: Certifications -->
     <td style="vertical-align: top; padding-right: 20px;">
