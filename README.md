@@ -1,4 +1,4 @@
-<h1 align="left">🧔Ludvik Kristoffersen</h1>
+<h1 align="left">👨🏼Ludvik Kristoffersen</h1>
 
 Hi there! My name is Ludvik, and I'm currently studying **Back-End Development**!
 
