@@ -55,8 +55,8 @@ That Python course sparked my interest in programming, so I decided to give Back
       <h3>📊 Ludvik's GitHub Stats</h3>
       <picture>
         <source srcset="https://github-readme-stats.vercel.app/api?username=luddekn&show_icons=true&hide_border=true&hide_title=true&text_color=ffffff&bg_color=00000000&icon_color=ffffff&ring_color=ffffff" media="(prefers-color-scheme: dark)"/>
-        <source srcset="https://github-readme-stats.vercel.app/api?username=luddekn&show_icons=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
-        <img src="https://github-readme-stats.vercel.app/api?username=luddekn&show_icons=true" />
+        <source srcset="https://github-readme-stats.vercel.app/api?username=luddekn&show_icons=true&hide_border=true&hide_title=true&text_color=000000&bg_color=00000000&icon_color=000000&ring_color=000000" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=luddekn&show_icons=true&hide_border=true&hide_title=true&text_color=000000&bg_color=00000000&icon_color=000000&ring_color=000000" />
       </picture>
     </td>
   </tr>
