@@ -1,4 +1,4 @@
-<a href="https://luddekn.github.io/"><img src="https://github.com/luddekn/luddekn/blob/main/ludvik-banner.png?raw=true" alt="Banner" /></a>
+<h2 align="center">Ludvik Kristoffersen</h2>
 
 ---
 ![About Me](https://github.com/luddekn/luddekn/blob/main/AboutMe.png?raw=true)
