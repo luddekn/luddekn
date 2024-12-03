@@ -1,14 +1,13 @@
-<h2 align="center">Ludvik Kristoffersen</h2>
-
----
-![About Me](https://github.com/luddekn/luddekn/blob/main/AboutMe.png?raw=true)
+<h1 align="left">🖥️Ludvik Kristoffersen</h1>
 
 Hi there! My name is Ludvik, and I'm currently studying **Back-End Development**!
 
 In 2024, I earned my **Higher Professional Degree in Network & IT Security**, where I built a strong foundation with computers, cybersecurity, network management, and IT systems. One of the highlights of my studies was a Python programming course, during which I created a [password manager](https://github.com/luddekn/lock-and-key) as my final exam project. (*Warning, messy source code!* 😅)
 
 That Python course sparked my interest in programming, so I decided to give Back-End Development studies a chance since I find that field interesting and want to learn more!
-#
+
+---
+
 ![Languages and Tools](https://github.com/luddekn/luddekn/blob/main/Languages-And-Tools.png?raw=true)
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
