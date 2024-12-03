@@ -44,7 +44,11 @@ That Python course sparked my interest in programming, so I decided to give Back
       <p>Currently holding three certifications related to IT and Cybersecurity.</p>
       <table>
         <tr>
-          <td><a href="https://certified.tcm-sec.com/fba51118-8a0a-4b23-9595-23dc33ad9a4e">Practical Junior Penetration Tester (PJPT)</a></td>
+          <td>
+            <a href="https://certified.tcm-sec.com/fba51118-8a0a-4b23-9595-23dc33ad9a4e">
+              <img src="https://custom-icon-badges.demolab.com/badge/-Practical%20Junior%Penetration%20Tester%20(PJPT)-blue?style=for-the-badge&logo=browser&logoColor=white"/>
+            </a>
+          </td>
           <td>May 5, 2024</td>
         </tr>
         <tr>
