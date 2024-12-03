@@ -8,7 +8,7 @@ That Python course sparked my interest in programming, so I decided to give Back
 
 <p align="left">
   <a href="">
-    <img src="https://custom-icon-badges.demolab.com/badge/-Use%20Template-teal?style=for-the-badge&logo=repo-template&logoColor=white&label=PERSONAL WEBSITE" alt="Personal Website"/>
+    <img src="https://custom-icon-badges.demolab.com/badge/-PERSONAL%20WEBSITE-teal?style=for-the-badge&logo=repo-template&logoColor=white" alt="Personal Website"/>
   </a>
 </p>
 
