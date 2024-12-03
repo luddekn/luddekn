@@ -34,6 +34,7 @@ That Python course sparked my interest in programming, so I decided to give Back
     <!-- Left Column: Certifications -->
     <td style="vertical-align: top; padding-right: 20px;">
       <h3>📜 Certifications</h3>
+      <br/>
       <p>Currently holding three certifications related to IT and Cybersecurity.</p>
       <table>
         <tr>
