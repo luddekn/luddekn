@@ -47,7 +47,7 @@ That Python course sparked my interest in programming, so I decided to give Back
         <li><a href="https://certified.tcm-sec.com/874f40b1-a392-43ec-a0c4-fdbdafd37602">Practical Web Pentest Associate (PWPA)</a></li>
         <li><a href="https://www.credly.com/badges/56d4a914-a9cf-43a9-8710-a185805a15d6">Microsoft Certified: Azure Fundamentals (AZ-900)</li>
       </ul>
+      <br/>
     </td>
-    <br/>
   </tr>
 </table>
