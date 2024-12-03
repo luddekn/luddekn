@@ -49,7 +49,6 @@ That Python course sparked my interest in programming, so I decided to give Back
           <td>March 30, 2023</td>
         </tr>
       </table>
-      <br/>
     </td>
     <!-- Right Column: GitHub Stats -->
     <td style="vertical-align: top;">
