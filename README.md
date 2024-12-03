@@ -34,7 +34,7 @@ That Python course sparked my interest in programming, so I decided to give Back
     <td style="vertical-align: top;">
       <h3>📊 Ludvik's GitHub Stats</h3>
       <picture>
-        <source srcset="https://github-readme-stats.vercel.app/api?username=luddekn&show_icons=true&hide_border=true&hide_title=true&text_color=ffffff&bg_color=00000000&icon_color=ffffff&ring_color=ffffff&disable_animations=true&include_all_commits=true&layout=compact&hide_progress=true&card_width=200" media="(prefers-color-scheme: dark)"/>
+        <source srcset="https://github-readme-stats.vercel.app/api?username=luddekn&show_icons=true&hide_border=true&hide_title=true&text_color=ffffff&bg_color=00000000&icon_color=ffffff&ring_color=ffffff&disable_animations=true&include_all_commits=true&layout=compact&hide_progress=true&card_width=100" media="(prefers-color-scheme: dark)"/>
         <source srcset="https://github-readme-stats.vercel.app/api?username=luddekn&show_icons=true&hide_border=true&hide_title=true&text_color=000000&bg_color=00000000&icon_color=000000&ring_color=000000&disable_animations=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
         <img src="https://github-readme-stats.vercel.app/api?username=luddekn&show_icons=true&hide_border=true&hide_title=true&text_color=000000&bg_color=00000000&icon_color=000000&ring_color=000000&disable_animations=true" />
       </picture>
