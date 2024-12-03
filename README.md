@@ -1,4 +1,4 @@
-<h1 align="left">🖥️Ludvik Kristoffersen</h1>
+<h1 align="left">🧔Ludvik Kristoffersen</h1>
 
 Hi there! My name is Ludvik, and I'm currently studying **Back-End Development**!
 
@@ -8,7 +8,7 @@ That Python course sparked my interest in programming, so I decided to give Back
 
 ---
 
-![Languages and Tools](https://github.com/luddekn/luddekn/blob/main/Languages-And-Tools.png?raw=true)
+### 🧰 Languages and Tools
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
@@ -23,7 +23,7 @@ That Python course sparked my interest in programming, so I decided to give Back
 <br/>
 
 #
-![Certifications](https://github.com/luddekn/luddekn/blob/main/Certifications.png?raw=true)
+### 📜 Certifications
 
 Currently holding three certifications related to IT and Cybersecurity.
 <table>
