@@ -48,8 +48,8 @@ That Python course sparked my interest in programming, so I decided to give Back
           <td><a href="https://www.credly.com/badges/56d4a914-a9cf-43a9-8710-a185805a15d6">Microsoft Certified: Azure Fundamentals (AZ-900)</a></td>
           <td>March 30, 2023</td>
         </tr>
-        <br/>
       </table>
+      <br/>
     </td>
     <!-- Right Column: GitHub Stats -->
     <td style="vertical-align: top;">
