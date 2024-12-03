@@ -6,6 +6,12 @@ In 2024, I earned my **Higher Professional Degree in Network & IT Security**, wh
 
 That Python course sparked my interest in programming, so I decided to give Back-End Development studies a chance since I find that field interesting and want to learn more!
 
+<p align="left">
+  <a href="">
+    <img src="https://custom-icon-badges.demolab.com/badge/-Use%20Template-teal?style=for-the-badge&logo=repo-template&logoColor=white" alt="Personal Website"/>
+  </a>
+</p>
+
 ---
 
 ### 🧰 Languages and Tools
