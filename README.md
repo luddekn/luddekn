@@ -31,7 +31,8 @@ That Python course sparked my interest in programming, so I decided to give Back
 #
 <table>
   <tr>
-    <td>
+    <!-- Left Column: Certifications -->
+    <td style="vertical-align: top; padding-right: 20px;">
       <h3>📜 Certifications</h3>
       <p>Currently holding three certifications related to IT and Cybersecurity.</p>
       <table>
@@ -49,9 +50,8 @@ That Python course sparked my interest in programming, so I decided to give Back
         </tr>
       </table>
     </td>
-  </tr>
-  <tr>
-    <td>
+    <!-- Right Column: GitHub Stats -->
+    <td style="vertical-align: top;">
       <h3>📊 GitHub Stats</h3>
       <img src="https://github-readme-stats.vercel.app/api?username=luddekn&show_icons=true&theme=transparent" alt="GitHub Stats" />
     </td>
