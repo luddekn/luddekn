@@ -31,7 +31,14 @@ That Python course sparked my interest in programming, so I decided to give Back
 #
 <table width="100%">
   <tr>
-    <!-- Left Column: Certifications -->
+    <td style="vertical-align: top;">
+      <h3>📊 Ludvik's GitHub Stats</h3>
+      <picture>
+        <source srcset="https://github-readme-stats.vercel.app/api?username=luddekn&show_icons=true&hide_border=true&hide_title=true&text_color=ffffff&bg_color=00000000&icon_color=ffffff&ring_color=ffffff&disable_animations=true" media="(prefers-color-scheme: dark)"/>
+        <source srcset="https://github-readme-stats.vercel.app/api?username=luddekn&show_icons=true&hide_border=true&hide_title=true&text_color=000000&bg_color=00000000&icon_color=000000&ring_color=000000&disable_animations=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=luddekn&show_icons=true&hide_border=true&hide_title=true&text_color=000000&bg_color=00000000&icon_color=000000&ring_color=000000&disable_animations=true" />
+      </picture>
+    </td>
     <td style="vertical-align: top; padding-right: 20px;">
       <h3>📜 Certifications</h3>
       <p>Currently holding three certifications related to IT and Cybersecurity.</p>
@@ -49,15 +56,6 @@ That Python course sparked my interest in programming, so I decided to give Back
           <td>March 30, 2023</td>
         </tr>
       </table>
-    </td>
-    <!-- Right Column: GitHub Stats -->
-    <td style="vertical-align: top;">
-      <h3>📊 Ludvik's GitHub Stats</h3>
-      <picture>
-        <source srcset="https://github-readme-stats.vercel.app/api?username=luddekn&show_icons=true&hide_border=true&hide_title=true&text_color=ffffff&bg_color=00000000&icon_color=ffffff&ring_color=ffffff" media="(prefers-color-scheme: dark)"/>
-        <source srcset="https://github-readme-stats.vercel.app/api?username=luddekn&show_icons=true&hide_border=true&hide_title=true&text_color=000000&bg_color=00000000&icon_color=000000&ring_color=000000" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
-        <img src="https://github-readme-stats.vercel.app/api?username=luddekn&show_icons=true&hide_border=true&hide_title=true&text_color=000000&bg_color=00000000&icon_color=000000&ring_color=000000" />
-      </picture>
     </td>
   </tr>
 </table>
