@@ -11,7 +11,7 @@ That Python course sparked my interest in programming, so I decided to give Back
     <img src="https://custom-icon-badges.demolab.com/badge/-VISIT%20MY%20WEBSITE!-blue?style=for-the-badge&logo=browser&logoColor=white" alt="Personal Website"/>
   </a>
     <a href="https://github.com/luddekn/dark-pine-theme">
-    <img src="https://custom-icon-badges.demolab.com/badge/-DARK%20PINE%20THEME!-orange" alt="Dark Pine Theme"/>
+    <img src="https://custom-icon-badges.demolab.com/badge/-DARK%20PINE%20THEME!-orange?style=for-the-badge" alt="Dark Pine Theme"/>
   </a>
 </p>
 
