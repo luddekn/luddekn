@@ -10,7 +10,7 @@ That Python course sparked my interest in programming, so I decided to give Back
   <a href="https://luddekn.github.io/">
     <img src="https://custom-icon-badges.demolab.com/badge/-VISIT%20MY%20WEBSITE!-blue?style=for-the-badge&logo=browser&logoColor=white" alt="Personal Website"/>
   </a>
-  <br/>
+
   <a href="https://github.com/luddekn/dark-pine-theme">
     <img src="https://custom-icon-badges.demolab.com/badge/-DARK%20PINE%20THEME!-orange?style=for-the-badge" alt="Dark Pine Theme"/>
   </a>
