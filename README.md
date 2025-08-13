@@ -31,7 +31,7 @@ That Python course sparked my interest in programming, so I decided to give Back
 <img align="left" alt="Nvim" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" />
 
 <br/>
----
+<hr>
 
 <h3>📜 Certifications</h3>
 <p>Currently holding three certifications related to IT and Cybersecurity.</p>
