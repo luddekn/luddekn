@@ -15,8 +15,8 @@ That Python course sparked my interest in programming, so I decided to give Back
     <img src="https://custom-icon-badges.demolab.com/badge/-DARK%20PINE%20THEME!-red?style=for-the-badge" alt="Dark Pine Theme"/>
   </a>
 </p>
-
----
+<br/>
+<hr>
 
 <h3>🧰 Languages and Tools</h3>
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
