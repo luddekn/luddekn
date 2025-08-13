@@ -8,7 +8,7 @@ That Python course sparked my interest in programming, so I decided to give Back
 
 <hr>
 
-<h3>🧰 Languages and Tools</h3>
+<h3>Languages and Tools</h3>
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
@@ -23,7 +23,7 @@ That Python course sparked my interest in programming, so I decided to give Back
 <br/>
 <hr>
 
-<h3>📜 Certifications</h3>
+<h3>Certifications</h3>
 <p>Currently holding three certifications related to IT and Cybersecurity.</p>
 <ul>
   <li><a href="https://certified.tcm-sec.com/fba51118-8a0a-4b23-9595-23dc33ad9a4e">Practical Junior Penetration Tester (PJPT)</a></li>
