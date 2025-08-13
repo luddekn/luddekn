@@ -19,7 +19,6 @@ That Python course sparked my interest in programming, so I decided to give Back
 ---
 
 <h3>🧰 Languages and Tools</h3>
-
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
@@ -31,8 +30,8 @@ That Python course sparked my interest in programming, so I decided to give Back
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img align="left" alt="Nvim" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" />
 
-<br/>
-<br/>
+---
+
 <h3>📜 Certifications</h3>
 <p>Currently holding three certifications related to IT and Cybersecurity.</p>
 <ul>
